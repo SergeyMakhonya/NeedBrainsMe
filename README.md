@@ -115,19 +115,19 @@ if (enemies.length >= 2) {
 ## Переменные
 ```js
 // кол-во прошедших тиков с момента начала игры
-tick: number;
+Tick: number;
 
 // координаты танка
-position: {
+Position: {
     X: number;
     Y: number;
 };
 
 // угол поворота корпуса танка в градусах
-rotation: number;
+Rotation: number;
 
 // угол поворота башни танка в градусах
-rotationHead: number;
+RotationHead: number;
 ```
 
 ## Пример простого скрипта:
