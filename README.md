@@ -162,6 +162,9 @@ RotationHead: number;
 
 // любые данные для следующих тиков игры
 Memory: any;
+
+// кол-во оставшихся тактов до выстрела
+LeftTicksBeforeFire: number;
 ```
 
 ## Пример простого скрипта:
