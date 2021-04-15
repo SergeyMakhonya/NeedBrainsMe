@@ -1,5 +1,5 @@
-# TelegramStreamGame
-Руководство по игре TelegramStreamGame
+# NeedBrainsMe
+Руководство по онлайн игре NeedBrainsMe
 
 ## Введение
 Ваша задача написать наиумнейшие мозги для танка на языке **JavaScript**.
